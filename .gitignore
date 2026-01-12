@@ -4,7 +4,10 @@ deep_learning/MNIST/
 
 boltzman.gif
 *.csv
+*.gz
+*.exe
 
+.cursorignore
 
 
 
